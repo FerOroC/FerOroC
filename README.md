@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerOroC
 - 👀 I’m interested in Machine Learning and Software Development
-- 🌱 I’m currently learning SQL and .NET framework
+- 🌱 I’m currently learning FreeCAD Python scripting - I want to apply Machine Learning models to CAD
 - 💞️ I’m looking to collaborate on Machine Learning applications
 - 📫 How to reach me: Fly me out to a fancy business dinner, or e-mail ferorocag@gmail.com
 
